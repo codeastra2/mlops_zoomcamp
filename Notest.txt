@@ -1,0 +1,10 @@
+Steps to Setup on WIndows WSL2
+
+1. ENable WSL2 on WIndows
+2. INstall Ubuntu 20.04 from the app store.
+3. sudo apt update
+4. INstall anaconda
+5. https://docs.docker.com/desktop/windows/wsl/ follow these steps to install the docker
+THe Nvidia driver may needto be upgraded to get the latest cuda version for compatability. 
+6. VS code WSL extension
+7. 
